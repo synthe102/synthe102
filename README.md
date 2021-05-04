@@ -1,7 +1,7 @@
 ### Hi ! I'm Léonard SUSLIAN 👋
 
 - 🔧 DevOps engineer at [Partoo](https://partoo.fr)
-- 🌍 Paris, France
+- 🌍 Lyon-ish, France
 - 🧑 23 years old
 - 💻 I like tinkering with computers
 - 🎶 Music enthusiast
