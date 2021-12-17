@@ -2,10 +2,10 @@
 
 - 🔧 DevOps engineer at [Partoo](https://partoo.fr)
 - 🌍 Saint-Malo, France
-- 🧑 23 years old
+- 🧑 24 years old
 - 💻 I like tinkering with computers
 - 🎶 Music enthusiast
-- 👀 I use ~~Arch~~ VoidLinux BTW
+- 👀 I use Arch BTW
 
 <!--
 **synthe102/synthe102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
