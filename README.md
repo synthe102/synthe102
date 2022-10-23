@@ -1,23 +1,12 @@
-### Hi ! I'm Léonard SUSLIAN 👋
+### Hi ! I'm Léonard 👋
 
-- 🔧 DevOps engineer at [Partoo](https://partoo.fr)
+- 🔧 SRE at [Kong](https://konghq.com)
 - 🌍 Saint-Malo, France
 - 🧑 24 years old
 - 💻 I like tinkering with computers
+- 👴 Fellow Vim user and wannabe plugin developer
 - 🎶 Music enthusiast
-- 👀 I use Arch BTW
+- 👀 I use ~~Arch BTW~~ something *nix-like ?
 
-<!--
-**synthe102/synthe102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I run a homelab using GitOps principles, you can check the config [here](https://github.com/synthe102/homelab).
+Sometimes I post random things [here](https://suslian.engineer).
