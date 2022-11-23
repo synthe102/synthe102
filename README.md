@@ -2,7 +2,7 @@
 
 - 🔧 SRE at [Kong](https://konghq.com)
 - 🌍 Saint-Malo, France
-- 🧑 24 years old
+- 🧑 25 years old
 - 💻 I like tinkering with computers
 - 👴 Fellow Vim user and wannabe plugin developer
 - 🎶 Music enthusiast
