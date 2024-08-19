@@ -1,6 +1,6 @@
 ### Hi ! I'm Léonard 👋
 
-- 🔧 SRE at [Kong](https://konghq.com), working on their cloud gateway offering
+- 🔧 SRE at [Mistral AI](https://mistral.ai)
 - 🌍 Côtes d'Armor, France
 - 🧑 26 years old
 - ☸️ Bare-metal k8s enjoyer
