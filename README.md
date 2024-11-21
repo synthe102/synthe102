@@ -2,7 +2,7 @@
 
 - 🔧 SRE at [Mistral AI](https://mistral.ai)
 - 🌍 Côtes d'Armor, France
-- 🧑 26 years old
+- 🧑 27 years old
 - ☸️ Bare-metal k8s enjoyer
 - 👴 NeoVim fanatic
 - 🎶 Music enthusiast
