@@ -1,12 +1,6 @@
 ### Hi ! I'm Léonard 👋
 
-- 🔧 SRE at [Mistral AI](https://mistral.ai)
-- 🌍 Côtes d'Armor, France
-- 🧑 27 years old
-- ☸️ Bare-metal k8s enjoyer
-- 👴 NeoVim fanatic
-- 🎶 Music enthusiast
-- 👀 Currently ~~using~~ suffering on NixOS
+I'm a software engineer from France 🇫🇷🥖, my current interests are in cloud native infrastructure, particularly kubernetes and bare-metal server management. I enjoy building dumb stuff and self-hosting services on my [Homelab](https://github.com/synthe102/homelab).
+I have 5 years of experience building, running and operating infrastructure on public cloud and on-prem.
 
-I run a homelab using GitOps principles, you can check the config [here](https://github.com/synthe102/homelab).
-Sometimes I post random things [here](https://suslian.engineer).
+Currently working at [Mistral AI](https://mistral.ai), building Mistral Compute, a bare-metal GPU cloudprovider with turn key HPC capabilities.
